@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAMA;;;;EAIE;AAEF,YAAY;AAGV,uBAAkB;EACjB,OAAO,EAAE,IAAI",
-"sources": ["../sass/noscript.scss"],
-"names": [],
-"file": "noscript.css"
-}
