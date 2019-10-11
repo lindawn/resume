@@ -2,8 +2,14 @@
     text-align: justify;
     vertical-align: 0mm;
 }
-h3, h2, h4, h5, h6{
+
+h3, h4, h5, h6{
     text-align: left;
+
+}
+
+.projects h2{
+  text-align: left;
 }
 
 
