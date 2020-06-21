@@ -59,3 +59,8 @@ h3, h4, h5, h6{
     column-count:         1;
     }
   }
+
+
+  ..nav-item.nav-link.active{
+    color: #741eb3;
+  }
