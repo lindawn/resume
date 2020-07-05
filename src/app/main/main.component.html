@@ -1,0 +1,32 @@
+<div id="main">
+    <section id="tabs" class=" row justify-content-xs-center">
+        <div class="container col-xs-2">
+            <nav>
+                <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                    <a class="nav-item nav-link active" id="nav-intern-tab" data-toggle="tab" href="#nav-intern"
+                        role="tab" aria-controls="nav-intern" aria-selected="true" style="color: #741eb3;">Jobs
+                        and Internships</a>
+                    <a class="nav-item nav-link" id="nav-thons-tab" data-toggle="tab" href="#nav-thons" role="tab"
+                        aria-controls="nav-thons" aria-selected="false" style="color: #741eb3;">Hackathons,
+                        Makerthons & Projects</a>
+                    <a class="nav-item nav-link" id="nav-eca-tab" data-toggle="tab" href="#nav-eca" role="tab"
+                        aria-controls="nav-eca" aria-selected="false" style="color: #741eb3;">Extra-Curricular
+                        Activities</a>
+                </div>
+            </nav>
+
+            <div class="tab-content  " id="nav-tabContent">
+                <div class="tab-pane fade show active" id="nav-intern" role="tabpanel" aria-labelledby="nav-intern-tab">
+                    <app-jobs-tab></app-jobs-tab>
+                </div>
+                <div class="tab-pane fade" id="nav-thons" role="tabpanel" aria-labelledby="nav-thons-tab">
+                    <app-projects-tab></app-projects-tab>
+                </div>
+
+                <div class="tab-pane fade" id="nav-eca" role="tabpanel" aria-labelledby="nav-eca-tab">
+                    <app-clubs-tab></app-clubs-tab>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
