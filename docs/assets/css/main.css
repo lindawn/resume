@@ -108,7 +108,7 @@ em, i {
   font-style: italic; }
 
 p, ul, ol, dl, table, blockquote, form {
-  margin: 0 0 1em 0; }
+  margin: 0 0 2em 0; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #5b5b5b;
@@ -123,9 +123,7 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none; }
 
 h2 {
-  font-size: 1.75em;
-  margin-top: 1em;
-}
+  font-size: 1.75em; }
 
 h3 {
   font-size: 1.5em; }
