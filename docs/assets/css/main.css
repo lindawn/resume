@@ -108,11 +108,7 @@ em, i {
   font-style: italic; }
 
 p, ul, ol, dl, table, blockquote, form {
-<<<<<<< HEAD
   margin: 0 0 1em 0; }
-=======
-  margin: 0 0 2em 0; }
->>>>>>> ae406d1ace1d8f0dfb27007bdca45c45adf33d1a
 
 h1, h2, h3, h4, h5, h6 {
   color: #5b5b5b;
@@ -127,13 +123,9 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none; }
 
 h2 {
-<<<<<<< HEAD
   font-size: 1.75em;
   margin-top: 1em;
 }
-=======
-  font-size: 1.75em; }
->>>>>>> ae406d1ace1d8f0dfb27007bdca45c45adf33d1a
 
 h3 {
   font-size: 1.5em; }
@@ -1613,21 +1605,13 @@ input[type="button"],
   padding: 10em 0 20em 0;
   position: relative;
   text-align: center; }
-<<<<<<< HEAD
   /* #header:before, #header:after {
-=======
-  #header:before, #header:after {
->>>>>>> ae406d1ace1d8f0dfb27007bdca45c45adf33d1a
     background: rgba(224, 224, 224, 0.75);
     content: '';
     left: 50%;
     position: absolute;
     width: 1px;
-<<<<<<< HEAD
     z-index: 0; } */
-=======
-    z-index: 0; }
->>>>>>> ae406d1ace1d8f0dfb27007bdca45c45adf33d1a
   #header:before {
     height: calc(100% - 50px);
     opacity: 0.15;
@@ -1692,11 +1676,7 @@ input[type="button"],
   padding: calc(460px + 6em) 0 10em 0;
   position: relative;
   text-align: center; }
-<<<<<<< HEAD
   /* #footer:before {
-=======
-  #footer:before {
->>>>>>> ae406d1ace1d8f0dfb27007bdca45c45adf33d1a
     background: rgba(224, 224, 224, 0.75);
     content: '';
     height: calc(460px + 6em);
@@ -1704,11 +1684,7 @@ input[type="button"],
     position: absolute;
     top: 0;
     width: 1px;
-<<<<<<< HEAD
     z-index: 0; } */
-=======
-    z-index: 0; }
->>>>>>> ae406d1ace1d8f0dfb27007bdca45c45adf33d1a
   #footer a {
     color: #ffffff; }
   #footer strong, #footer b {
@@ -1764,11 +1740,7 @@ input[type="button"],
   padding: 6em 0 5em 0;
   position: relative;
   z-index: 1; }
-<<<<<<< HEAD
   /* #main:before {
-=======
-  #main:before {
->>>>>>> ae406d1ace1d8f0dfb27007bdca45c45adf33d1a
     background: rgba(224, 224, 224, 0.75);
     content: '';
     height: 100%;
@@ -1776,11 +1748,7 @@ input[type="button"],
     position: absolute;
     top: 0;
     width: 1px;
-<<<<<<< HEAD
     z-index: -1; } */
-=======
-    z-index: -1; }
->>>>>>> ae406d1ace1d8f0dfb27007bdca45c45adf33d1a
   #main header.major,
   #main footer.major {
     background: #ffffff; }
