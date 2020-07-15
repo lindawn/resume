@@ -3,7 +3,11 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
+<<<<<<< HEAD
     "cv-angular": {
+=======
+    "lindawn.github.io": {
+>>>>>>> ae406d1ace1d8f0dfb27007bdca45c45adf33d1a
       "projectType": "application",
       "schematics": {},
       "root": "",
