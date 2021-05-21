@@ -5,20 +5,20 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { MainComponent } from './main/main.component';
-import { JobsTabComponent } from './jobs-tab/jobs-tab.component';
 import { ProjectsTabComponent } from './projects-tab/projects-tab.component';
 import { ClubsTabComponent } from './clubs-tab/clubs-tab.component';
 import { FooterComponent } from './footer/footer.component';
+import { JobsComponent } from './jobs/jobs.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     MainComponent,
-    JobsTabComponent,
     ProjectsTabComponent,
     ClubsTabComponent,
-    FooterComponent
+    FooterComponent,
+    JobsComponent
   ],
   imports: [
     BrowserModule,

@@ -1,15 +1,43 @@
+p {
+    margin: 0 0 1.5em 0
+}
+
 p.skills-list {
     margin: 1em 0;
 }
-div.tech-skills ul.feature-icons li{
+
+div.tech-skills ul.feature-icons li {
     padding-left: 0;
 }
 
-ul.frontend li .fas.fa-circle.fa-stack-2x{
+ul.frontend li .fas.fa-circle.fa-stack-2x {
     color: #ffc06e;
 }
 
-ul.backend li .fas.fa-circle.fa-stack-2x{
+ul.backend li .fas.fa-circle.fa-stack-2x {
     color: #c085ff;
 }
 
+ul.envir li .fas.fa-circle.fa-stack-2x {
+    color: #8fd2ff;
+}
+
+ul.contact {
+    list-style: none;
+    vertical-align: top;
+    margin: 0 20%;
+}
+
+ul.contact li {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 0 1.6875em 0;
+    padding: 0.35em 0 0 2.5em;
+    position: relative;
+    vertical-align: top;
+    
+}
+
+ul.contact a {
+    border: none;
+}
