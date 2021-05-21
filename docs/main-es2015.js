@@ -88,7 +88,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "app-main");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](3, "app-jobs");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, directives: [_header_header_component__WEBPACK_IMPORTED_MODULE_1__["HeaderComponent"], _main_main_component__WEBPACK_IMPORTED_MODULE_2__["MainComponent"], _jobs_jobs_component__WEBPACK_IMPORTED_MODULE_3__["JobsComponent"]], styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJhcHAvYXBwLmNvbXBvbmVudC5jc3MifQ== */"] });
+    } }, directives: [_header_header_component__WEBPACK_IMPORTED_MODULE_1__["HeaderComponent"], _main_main_component__WEBPACK_IMPORTED_MODULE_2__["MainComponent"], _jobs_jobs_component__WEBPACK_IMPORTED_MODULE_3__["JobsComponent"]], styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwcC5jb21wb25lbnQuY3NzIn0= */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](AppComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -239,7 +239,7 @@ ClubsTabComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefine
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJhcHAvY2x1YnMtdGFiL2NsdWJzLXRhYi5jb21wb25lbnQuY3NzIn0= */"] });
+    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NsdWJzLXRhYi9jbHVicy10YWIuY29tcG9uZW50LmNzcyJ9 */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](ClubsTabComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -316,7 +316,7 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJhcHAvZm9vdGVyL2Zvb3Rlci5jb21wb25lbnQuY3NzIn0= */"] });
+    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2Zvb3Rlci9mb290ZXIuY29tcG9uZW50LmNzcyJ9 */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](FooterComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -396,7 +396,7 @@ HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "footer");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJhcHAvaGVhZGVyL2hlYWRlci5jb21wb25lbnQuY3NzIn0= */"] });
+    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2hlYWRlci9oZWFkZXIuY29tcG9uZW50LmNzcyJ9 */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](HeaderComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -578,7 +578,7 @@ JobsComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: [".features[_ngcontent-%COMP%]   article[_ngcontent-%COMP%]   .image[_ngcontent-%COMP%]{\r\n    width: 30%\r\n}\r\n\r\n.features[_ngcontent-%COMP%]   article[_ngcontent-%COMP%]   .inner[_ngcontent-%COMP%]{\r\n    width: 70%\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC9qb2JzL2pvYnMuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJO0FBQ0o7O0FBRUE7SUFDSTtBQUNKIiwiZmlsZSI6ImFwcC9qb2JzL2pvYnMuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5mZWF0dXJlcyBhcnRpY2xlIC5pbWFnZXtcclxuICAgIHdpZHRoOiAzMCVcclxufVxyXG5cclxuLmZlYXR1cmVzIGFydGljbGUgLmlubmVye1xyXG4gICAgd2lkdGg6IDcwJVxyXG59Il19 */"] });
+    } }, styles: [".features[_ngcontent-%COMP%]   article[_ngcontent-%COMP%]   .image[_ngcontent-%COMP%]{\r\n    width: 30%\r\n}\r\n\r\n.features[_ngcontent-%COMP%]   article[_ngcontent-%COMP%]   .inner[_ngcontent-%COMP%]{\r\n    width: 70%\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvam9icy9qb2JzLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSTtBQUNKOztBQUVBO0lBQ0k7QUFDSiIsImZpbGUiOiJzcmMvYXBwL2pvYnMvam9icy5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmZlYXR1cmVzIGFydGljbGUgLmltYWdle1xyXG4gICAgd2lkdGg6IDMwJVxyXG59XHJcblxyXG4uZmVhdHVyZXMgYXJ0aWNsZSAuaW5uZXJ7XHJcbiAgICB3aWR0aDogNzAlXHJcbn0iXX0= */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](JobsComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -752,7 +752,7 @@ MainComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: ["p {\r\n    margin: 0 0 1.5em 0\r\n}\r\n\r\np.skills-list {\r\n    margin: 1em 0;\r\n}\r\n\r\ndiv.tech-skills ul.feature-icons li {\r\n    padding-left: 0;\r\n}\r\n\r\nul.frontend li .fas.fa-circle.fa-stack-2x {\r\n    color: #ffc06e;\r\n}\r\n\r\nul.backend li .fas.fa-circle.fa-stack-2x {\r\n    color: #c085ff;\r\n}\r\n\r\nul.envir li .fas.fa-circle.fa-stack-2x {\r\n    color: #8fd2ff;\r\n}\r\n\r\nul.contact {\r\n    list-style: none;\r\n    vertical-align: top;\r\n    margin: 0 20%;\r\n}\r\n\r\nul.contact li {\r\n    text-decoration: none;\r\n    display: inline-block;\r\n    margin: 0 0 1.6875em 0;\r\n    padding: 0.35em 0 0 2.5em;\r\n    position: relative;\r\n    vertical-align: top;\r\n    \r\n}\r\n\r\nul.contact a {\r\n    border: none;\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC9tYWluL21haW4uY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJO0FBQ0o7O0FBRUE7SUFDSSxhQUFhO0FBQ2pCOztBQUVBO0lBQ0ksZUFBZTtBQUNuQjs7QUFFQTtJQUNJLGNBQWM7QUFDbEI7O0FBRUE7SUFDSSxjQUFjO0FBQ2xCOztBQUVBO0lBQ0ksY0FBYztBQUNsQjs7QUFFQTtJQUNJLGdCQUFnQjtJQUNoQixtQkFBbUI7SUFDbkIsYUFBYTtBQUNqQjs7QUFFQTtJQUNJLHFCQUFxQjtJQUNyQixxQkFBcUI7SUFDckIsc0JBQXNCO0lBQ3RCLHlCQUF5QjtJQUN6QixrQkFBa0I7SUFDbEIsbUJBQW1COztBQUV2Qjs7QUFFQTtJQUNJLFlBQVk7QUFDaEIiLCJmaWxlIjoiYXBwL21haW4vbWFpbi5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsicCB7XHJcbiAgICBtYXJnaW46IDAgMCAxLjVlbSAwXHJcbn1cclxuXHJcbnAuc2tpbGxzLWxpc3Qge1xyXG4gICAgbWFyZ2luOiAxZW0gMDtcclxufVxyXG5cclxuZGl2LnRlY2gtc2tpbGxzIHVsLmZlYXR1cmUtaWNvbnMgbGkge1xyXG4gICAgcGFkZGluZy1sZWZ0OiAwO1xyXG59XHJcblxyXG51bC5mcm9udGVuZCBsaSAuZmFzLmZhLWNpcmNsZS5mYS1zdGFjay0yeCB7XHJcbiAgICBjb2xvcjogI2ZmYzA2ZTtcclxufVxyXG5cclxudWwuYmFja2VuZCBsaSAuZmFzLmZhLWNpcmNsZS5mYS1zdGFjay0yeCB7XHJcbiAgICBjb2xvcjogI2MwODVmZjtcclxufVxyXG5cclxudWwuZW52aXIgbGkgLmZhcy5mYS1jaXJjbGUuZmEtc3RhY2stMngge1xyXG4gICAgY29sb3I6ICM4ZmQyZmY7XHJcbn1cclxuXHJcbnVsLmNvbnRhY3Qge1xyXG4gICAgbGlzdC1zdHlsZTogbm9uZTtcclxuICAgIHZlcnRpY2FsLWFsaWduOiB0b3A7XHJcbiAgICBtYXJnaW46IDAgMjAlO1xyXG59XHJcblxyXG51bC5jb250YWN0IGxpIHtcclxuICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcclxuICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcclxuICAgIG1hcmdpbjogMCAwIDEuNjg3NWVtIDA7XHJcbiAgICBwYWRkaW5nOiAwLjM1ZW0gMCAwIDIuNWVtO1xyXG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG4gICAgdmVydGljYWwtYWxpZ246IHRvcDtcclxuICAgIFxyXG59XHJcblxyXG51bC5jb250YWN0IGEge1xyXG4gICAgYm9yZGVyOiBub25lO1xyXG59Il19 */"], encapsulation: 2 });
+    } }, styles: ["p {\r\n    margin: 0 0 1.5em 0\r\n}\r\n\r\np.skills-list {\r\n    margin: 1em 0;\r\n}\r\n\r\ndiv.tech-skills ul.feature-icons li {\r\n    padding-left: 0;\r\n}\r\n\r\nul.frontend li .fas.fa-circle.fa-stack-2x {\r\n    color: #ffc06e;\r\n}\r\n\r\nul.backend li .fas.fa-circle.fa-stack-2x {\r\n    color: #c085ff;\r\n}\r\n\r\nul.envir li .fas.fa-circle.fa-stack-2x {\r\n    color: #8fd2ff;\r\n}\r\n\r\nul.contact {\r\n    list-style: none;\r\n    vertical-align: top;\r\n    margin: 0 20%;\r\n}\r\n\r\nul.contact li {\r\n    text-decoration: none;\r\n    display: inline-block;\r\n    margin: 0 0 1.6875em 0;\r\n    padding: 0.35em 0 0 2.5em;\r\n    position: relative;\r\n    vertical-align: top;\r\n    \r\n}\r\n\r\nul.contact a {\r\n    border: none;\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvbWFpbi9tYWluLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSTtBQUNKOztBQUVBO0lBQ0ksYUFBYTtBQUNqQjs7QUFFQTtJQUNJLGVBQWU7QUFDbkI7O0FBRUE7SUFDSSxjQUFjO0FBQ2xCOztBQUVBO0lBQ0ksY0FBYztBQUNsQjs7QUFFQTtJQUNJLGNBQWM7QUFDbEI7O0FBRUE7SUFDSSxnQkFBZ0I7SUFDaEIsbUJBQW1CO0lBQ25CLGFBQWE7QUFDakI7O0FBRUE7SUFDSSxxQkFBcUI7SUFDckIscUJBQXFCO0lBQ3JCLHNCQUFzQjtJQUN0Qix5QkFBeUI7SUFDekIsa0JBQWtCO0lBQ2xCLG1CQUFtQjs7QUFFdkI7O0FBRUE7SUFDSSxZQUFZO0FBQ2hCIiwiZmlsZSI6InNyYy9hcHAvbWFpbi9tYWluLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJwIHtcclxuICAgIG1hcmdpbjogMCAwIDEuNWVtIDBcclxufVxyXG5cclxucC5za2lsbHMtbGlzdCB7XHJcbiAgICBtYXJnaW46IDFlbSAwO1xyXG59XHJcblxyXG5kaXYudGVjaC1za2lsbHMgdWwuZmVhdHVyZS1pY29ucyBsaSB7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDA7XHJcbn1cclxuXHJcbnVsLmZyb250ZW5kIGxpIC5mYXMuZmEtY2lyY2xlLmZhLXN0YWNrLTJ4IHtcclxuICAgIGNvbG9yOiAjZmZjMDZlO1xyXG59XHJcblxyXG51bC5iYWNrZW5kIGxpIC5mYXMuZmEtY2lyY2xlLmZhLXN0YWNrLTJ4IHtcclxuICAgIGNvbG9yOiAjYzA4NWZmO1xyXG59XHJcblxyXG51bC5lbnZpciBsaSAuZmFzLmZhLWNpcmNsZS5mYS1zdGFjay0yeCB7XHJcbiAgICBjb2xvcjogIzhmZDJmZjtcclxufVxyXG5cclxudWwuY29udGFjdCB7XHJcbiAgICBsaXN0LXN0eWxlOiBub25lO1xyXG4gICAgdmVydGljYWwtYWxpZ246IHRvcDtcclxuICAgIG1hcmdpbjogMCAyMCU7XHJcbn1cclxuXHJcbnVsLmNvbnRhY3QgbGkge1xyXG4gICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xyXG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXG4gICAgbWFyZ2luOiAwIDAgMS42ODc1ZW0gMDtcclxuICAgIHBhZGRpbmc6IDAuMzVlbSAwIDAgMi41ZW07XHJcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XHJcbiAgICB2ZXJ0aWNhbC1hbGlnbjogdG9wO1xyXG4gICAgXHJcbn1cclxuXHJcbnVsLmNvbnRhY3QgYSB7XHJcbiAgICBib3JkZXI6IG5vbmU7XHJcbn0iXX0= */"], encapsulation: 2 });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](MainComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -869,7 +869,7 @@ ProjectsTabComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJhcHAvcHJvamVjdHMtdGFiL3Byb2plY3RzLXRhYi5jb21wb25lbnQuY3NzIn0= */"] });
+    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3Byb2plY3RzLXRhYi9wcm9qZWN0cy10YWIuY29tcG9uZW50LmNzcyJ9 */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](ProjectsTabComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
