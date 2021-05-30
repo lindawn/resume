@@ -5,3 +5,7 @@
 .features article .inner{
     width: 70%
 }
+#bottomBorder{
+    border-bottom: solid 3px #f4f4f4;
+    padding-bottom: 2.25em;
+}
